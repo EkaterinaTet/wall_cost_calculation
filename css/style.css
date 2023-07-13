@@ -130,7 +130,8 @@ body {
   background-color: #d9dce9;
   border: none;
   height: 40px;
-  width: 40px; }
+  width: 40px;
+-o-width: 60px}
 .form__item-numberspan {
   font-size: 14px;
   margin-right: 20px; }
