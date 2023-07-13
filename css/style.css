@@ -131,6 +131,7 @@ body {
   border: none;
   height: 40px;
   width: 40px;
+  -webkit-width: 60px;
  }
 .form__item-numberspan {
   font-size: 14px;
